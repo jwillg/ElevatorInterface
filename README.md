@@ -9,7 +9,9 @@ The elevator I chose to analyze is the Electrical and Computor Engineering build
 
 ## Control Interface
 
-Pictures  and gif to be added.
+![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorOut.jpg)
+![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorIn.jpg)
+
 
 ## Issues with the current design
 
@@ -46,8 +48,8 @@ The fact that there are seemingly 3 different emergency buttons are confusing. A
 
 ## Sketched improvements
 
-To be updated.
+![Image](https://github.com/jwillg/ElevatorInterface/blob/master/elevatorsketch.png)
 
-## Interactive Design link
+## Application link
 
 [Elevator interface](https://jwillg.github.io/ElevatorInterface/index.html)
