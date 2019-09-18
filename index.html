@@ -8,7 +8,6 @@
 </head>
 <body>
 
-
 <audio id="myAudio">
     <source src="ElevatorBell.ogg" type="audio/ogg">
     <source src="ElevatorBell.mp3" type="audio/mpeg">
@@ -16,19 +15,29 @@
 </audio>
 
 <div class="btn-group">
-    <button onclick="playAudio()">2</button>
-    <button onclick="playAudio()">★1&nbsp&nbsp&nbsp</button>
-    <button onclick="playAudio()">B</button>
+    <button id="floor2" onclick="floor2Light()">2</button>
+    <button id="floor2D" background-color="#000000" onclick="floor2Light()">2 description</button>
+</div>
+
+<div class="btn-group">
+    <button id="floor1" onclick="floor1Light()">★1&nbsp&nbsp&nbsp</button>
+    <button id="floor1D">1 description</button>
+</div>
+
+<div class="btn-group">
+    <button id="floorB" onclick="floorBLight()">B</button>
+    <button id="floorBD">B description</button>
+
 </div>
 
 <div class="btn-group2">
-    <button>◄ | ►</button>
-    <button>► | ◄</button>
+    <button id="doorOpen" onclick="doorOpenLight()">◄ | ►</button>
+    <button id="doorClose" onclick="doorCloseLight()">► | ◄</button>
 </div>
 
 <div class="btn-group3">
-    <button id ="bell">🔔</button>
-    <button id = "phone">📞</button>
+    <button id="bell" onclick="bellLight()">🔔</button>
+    <button id="phone" onclick="phoneLight()">📞</button>
 </div>
 
 
