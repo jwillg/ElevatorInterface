@@ -11,6 +11,7 @@ The elevator I chose to analyze is the Electrical and Computor Engineering build
 
 ![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorOut.jpg)
 ![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorIn.jpg)
+[Elevator gif file](https://imgur.com/a/zX7k5XX)
 
 
 ## Issues with the current design
