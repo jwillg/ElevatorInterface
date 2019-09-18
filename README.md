@@ -1,6 +1,10 @@
 # Elevator Interface
-## Application link
-[Elevator Interface](https://jwillg.github.io/hw1.44.Willgrubs/index.html)
+## Links
+[Presentation page](https://jwillg.github.io/hw1.44.Willgrubs)
+<br />
+[GitHub repository](https://github.com/jwillg/hw1.44.Willgrubs)
+<br />
+[Demo](https://jwillg.github.io/hw1.44.Willgrubs/demo.html)
 
 # Elevator Analysis
 ## Elevator Information
@@ -9,9 +13,10 @@ The elevator I chose to analyze is the Electrical and Computer Engineering build
 
 ## Control Interface
 
-![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorOut.jpg)
+![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorOut.jpg) 
 ![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorIn.jpg)
-[Elevator gif file](https://imgur.com/a/zX7k5XX)
+![Gif](https://media.giphy.com/media/UokYJhHXcHAOmz6aJv/giphy-downsized-large.gif)
+
 
 
 ## Issues with the current design
@@ -51,6 +56,6 @@ The fact that there are seemingly 3 different emergency buttons are confusing. A
 
 ![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/elevatorsketch.png)
 
-## Application link
+## Parkinson's disease
 
-[Elevator interface](https://jwillg.github.io/hw1.44.Willgrubs/index.html)
+Parkinson's disease is a progressive nervous system disorder that affects movement. I took this disability into account when designing my elevator interface. The buttons are large and light up when someone's hand is above the floor's button as to minimize errors during hand tremors.
