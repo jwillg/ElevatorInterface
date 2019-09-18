@@ -1,6 +1,6 @@
 # Elevator Interface
 ## Application link
-[Elevator Interface](https://jwillg.github.io/ElevatorInterface/index.html)
+[Elevator Interface](https://jwillg.github.io/hw1.44.Willgrubs/index.html)
 
 # Elevator Analysis
 ## Elevator Information
@@ -9,8 +9,8 @@ The elevator I chose to analyze is the Electrical and Computer Engineering build
 
 ## Control Interface
 
-![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorOut.jpg)
-![Image](https://github.com/jwillg/ElevatorInterface/blob/master/ElevatorIn.jpg)
+![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorOut.jpg)
+![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorIn.jpg)
 [Elevator gif file](https://imgur.com/a/zX7k5XX)
 
 
@@ -49,8 +49,8 @@ The fact that there are seemingly 3 different emergency buttons are confusing. A
 
 ## Sketched improvements
 
-![Image](https://github.com/jwillg/ElevatorInterface/blob/master/elevatorsketch.png)
+![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/elevatorsketch.png)
 
 ## Application link
 
-[Elevator interface](https://jwillg.github.io/ElevatorInterface/index.html)
+[Elevator interface](https://jwillg.github.io/hw1.44.Willgrubs/index.html)
