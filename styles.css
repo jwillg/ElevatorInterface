@@ -19,6 +19,7 @@
     background-color: #a4d7a6;
 }
 
+
 .btn-group2 button {
     background-color: #4CAF50; /* Green background */
     border: 1px solid green; /* Green border */
@@ -47,7 +48,6 @@
 
 #phone {
     background-color: #000000;
-
 }
 
 #phone:hover {
