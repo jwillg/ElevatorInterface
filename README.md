@@ -13,8 +13,8 @@ The elevator I chose to analyze is the Electrical and Computer Engineering build
 
 ## Control Interface
 
-![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorOut.jpg) 
-![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/ElevatorIn.jpg)
+![Image](https://i.imgur.com/8MX5BPl.jpg)
+![Image](https://i.imgur.com/Ed3WgiX.jpg)
 ![Gif](https://media.giphy.com/media/UokYJhHXcHAOmz6aJv/giphy-downsized-large.gif)
 
 
@@ -54,7 +54,7 @@ The fact that there are seemingly 3 different emergency buttons are confusing. A
 
 ## Sketched improvements
 
-![Image](https://github.com/jwillg/hw1.44.Willgrubs/blob/master/elevatorsketch.png)
+![Image](https://i.imgur.com/7yehV2K.png)
 
 ## Parkinson's disease
 
